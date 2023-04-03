@@ -1,6 +1,6 @@
 # Project Overview 
 
-In this notebook we utlize feature engineering to improve the prediction of **housing prices** using a Keras Sequential Model on Google Cloud Platfoprm (GCP)
+In this notebook we utlize feature engineering to improve the prediction of **housing prices** using a Keras Sequential Model on Google Cloud Platform (GCP)
 
 
 Author: Mamoutou FOFANA
